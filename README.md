@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a graduate researcher at Michigan State University. My interests lie at the intersection of engineering and computer science. In my current role, I am focused on the development of real-time, patient-specific models by integrating physics-informed machine learning with traditional numerical methods. My objective is to facilitate efficient inverse modeling and parameter estimation, contributing to the evolution of personalized treatments.
+I am a computational scientist with a passion for leveraging computational models and algorithms to address complex scientific problems. As a Ph.D. candidate at Michigan State University, my research integrates physics-informed machine learning with traditional numerical methods to develop real-time, subject-specific cardiovascular models. This work aims to enhance the efficiency and accuracy of medical diagnostics and treatments.
 
 🔗 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/se-naghavi/)
